@@ -1,0 +1,16 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+.three-d-viewer-container {
+    width: 500px;
+    height: 500px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+}
+

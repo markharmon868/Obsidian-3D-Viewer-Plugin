@@ -1,0 +1,11 @@
+{
+	"id": "3d-viewer",
+	"name": "3D Object Viewer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "View 3D models in your notes",
+	"author": "Mark Harmon",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
